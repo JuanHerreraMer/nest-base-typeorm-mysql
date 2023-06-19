@@ -2,7 +2,18 @@
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
 
-# Proyecto BASE
+# Proyecto NestJS
+
+### Base para desarrollo implementado con:
+- typeORM
+- BD MySql
+- Jwt
+- Decoradores personalizados para uso de validacion de JWT y roles
+- Configuración de carpeta pública y uso de variables de entorno
+- dependencias class-validator class-transformer para DTO
+- Entity user y docker compose para descarga de imagen MySql 8.0.33
+
+## Indicaciones de primer uso
 
 1. Clonar proyecto
 2. Ejecutar ``` yarn install ```
